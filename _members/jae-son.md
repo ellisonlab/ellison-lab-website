@@ -1,6 +1,7 @@
 ---
 name: Jae Hak Son
 image: images/jaehakson.jpg
+description: Postdoc
 role: postdoc
 links:
   orcid: https://orcid.org/0000-0003-2054-0904
