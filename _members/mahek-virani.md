@@ -1,7 +1,7 @@
 ---
-name: 
+name: Mahek Virani
 image: images/
-role: undergrad
+role: Undergradraduate
 links:
   email: 
 ---
