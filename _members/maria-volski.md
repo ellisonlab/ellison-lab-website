@@ -1,9 +1,9 @@
 ---
-name: 
-image: images/
+name: Maria Volski 
+image: images/volski.jpg
 role: undergrad
 links:
-  email: 
+  email: mav200@scarletmail.rutgers.edu
 ---
 
-Write bio/description here
+Maria is a class 2023 student at Rutgers University majoring in Genetics and minoring in Computer Science. Her current project involves the investigation of the nxf gene family across Drosophila species with the use of gene annotations. 
