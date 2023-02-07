@@ -1,7 +1,7 @@
 ---
 name: Mahek Virani
 image: images/mahek.jpeg
-role: Undergradraduate Student
+role: undergrad
 links:
   email: msv66@scarletmail.rutgers.edu
 ---
