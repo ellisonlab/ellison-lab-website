@@ -1,6 +1,6 @@
 ---
 name: Maria Volski 
-image: images/volski.jpg
+image: images/Volski.jpg
 role: undergrad
 links:
   email: mav200@scarletmail.rutgers.edu
